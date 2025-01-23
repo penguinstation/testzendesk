@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zendesk Widget Test Page</title>
+</head>
+<body>
+    <h1>Welcome to the Zendesk Widget Test Page</h1>
+    <p>Use this page to test the integration and functionality of the Zendesk widget.</p>
+
+    <!-- Start of d3v-coworkers Zendesk Widget script -->
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=16f706ca-7f85-46e6-abd9-df5aca0c2be3"> </script>
+    <!-- End of d3v-coworkers Zendesk Widget script -->
+</body>
+</html>
